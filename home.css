@@ -1,0 +1,45 @@
+
+.header{
+    height: 75px;
+    background-color: #FFE4E1;
+    border-radius: 15px;
+}
+.header img{
+  height: 70px;
+  width: auto;
+  position: absolute;
+  left: 25px;
+}
+
+.line1{
+  height: 255px;
+}
+.line2{
+  height: 255px;
+}
+.line3{
+  height: 255px;
+}
+.line4{
+  height: 255px;
+}
+.line1 img{
+  float: left;
+  height:250px;
+  width: auto;
+}
+.line2 img{
+  float: right;
+  height:250px;
+  width: auto;
+}
+.line3 img{
+  float: left;
+  height:250px;
+  width: auto;
+}
+.line4 img{
+  float: right;
+  height:250px;
+  width: auto;
+}
