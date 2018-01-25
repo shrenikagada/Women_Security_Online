@@ -38,13 +38,9 @@
   height:250px;
   width: auto;
 }
-.line3 img{
-  float: left;
-  height:250px;
-  width: auto;
-}
+
 .line4 img{
-  float: right;
+  float: left;
   height:250px;
   width: auto;
 }
